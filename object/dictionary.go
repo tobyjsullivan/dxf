@@ -3,8 +3,8 @@ package object
 import (
 	"errors"
 	"fmt"
-	"github.com/yofu/dxf/format"
-	"github.com/yofu/dxf/handle"
+	"github.com/tobyjsullivan/dxf/format"
+	"github.com/tobyjsullivan/dxf/handle"
 )
 
 // Dictionary represents DICTIONARY Object.

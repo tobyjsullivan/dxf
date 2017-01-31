@@ -2,7 +2,7 @@
 package block
 
 import (
-	"github.com/yofu/dxf/format"
+	"github.com/tobyjsullivan/dxf/format"
 )
 
 // Blocks represents BLOCKS section.

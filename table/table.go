@@ -2,7 +2,7 @@ package table
 
 import (
 	"fmt"
-	"github.com/yofu/dxf/format"
+	"github.com/tobyjsullivan/dxf/format"
 	"strings"
 )
 

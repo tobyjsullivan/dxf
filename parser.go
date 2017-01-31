@@ -3,12 +3,12 @@ package dxf
 import (
 	"errors"
 	"fmt"
-	"github.com/yofu/dxf/block"
-	"github.com/yofu/dxf/color"
-	"github.com/yofu/dxf/drawing"
-	"github.com/yofu/dxf/entity"
-	"github.com/yofu/dxf/header"
-	"github.com/yofu/dxf/table"
+	"github.com/tobyjsullivan/dxf/block"
+	"github.com/tobyjsullivan/dxf/color"
+	"github.com/tobyjsullivan/dxf/drawing"
+	"github.com/tobyjsullivan/dxf/entity"
+	"github.com/tobyjsullivan/dxf/header"
+	"github.com/tobyjsullivan/dxf/table"
 	"strconv"
 	"strings"
 )

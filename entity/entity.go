@@ -1,9 +1,9 @@
 package entity
 
 import (
-	"github.com/yofu/dxf/format"
-	"github.com/yofu/dxf/handle"
-	"github.com/yofu/dxf/table"
+	"github.com/tobyjsullivan/dxf/format"
+	"github.com/tobyjsullivan/dxf/handle"
+	"github.com/tobyjsullivan/dxf/table"
 )
 
 // Entity is interface for DXF Entities.
